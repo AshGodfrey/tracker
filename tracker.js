@@ -3,7 +3,7 @@
 // const characterNames = ["SHARRA ARRYN", "ROBB STARK"];
 // const irrelevantForums = ["INFORMATION & LORE", "SITE NEWS", "MEMBER EXTRAS", "Incomplete Applications", "Finished Applications", "REGISTRATION", "CLAIMS", "SHIPPERS", "FAMILY", "LOVERS & BETROTHALS", "FRIENDS & COUNCIL", "OPEN CALLS & MISC", "WANTED ADS", "OOC CHARACTER DEV", "TRACKERS & DEV", "ARCHIVED CHARACTERS", "MISC. ARCHIVES", "IF/JCINK FIRST LINK", "PB/ZB FIRST LINK", "OTHER FIRST LINK", "LINK BACKS", "ADVERTISING", "ABSENCES", "DISCUSSIONS", "GAMES"];
 // closedThreadForums = ["Archives", "Acta pt. 1", "Acta pt. 1 INFO", "Completed Threads", "Where I Hide the Goodz", "Inactive Characters", "Archived Characters", "Misc. Archives"];
-// floodControlValue = 10000
+// floodControlValue = 100002
 // //*** END OF CONFIGURATION AREA ***//
 
 const unusedForums = irrelevantForums.map((item) => item.toLowerCase());
